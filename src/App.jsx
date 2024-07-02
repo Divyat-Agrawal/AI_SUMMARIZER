@@ -13,6 +13,7 @@ function App() {
       <div className="app">
         <Hero />
         <Demo />
+        <h1>Divyat</h1>
       </div>
     </main>
   );
